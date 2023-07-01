@@ -1,2 +1,2 @@
 # Logo
-自用logo集合
+自用logo合集
