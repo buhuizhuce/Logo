@@ -1,4 +1,4 @@
-name: Generate Emby Icons JSON
+name: Generate Icons JSON
 
 on:
   push:
@@ -25,18 +25,21 @@ jobs:
         with:
           python-version: "3.x"
 
-      # 3. 生成 EmbyIcons.json
-      - name: Generate Emby Icons JSON
+      # 3. 生成 EmbyIcons.json 和 All_Icons.json
+      - name: Generate Icons JSON
         run: |
           python scripts/EmbyIcons.json.py
+          python scripts/All_Icons.json.py
 
-      # 4. 自动提交
+      # 4. 自动提交更新
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
-          message: "Auto-generate EmbyIcons.json"
-          add: EmbyIcons.json
+          message: "Auto-generate EmbyIcons.json and All_Icons.json"
+          add: |
+            EmbyIcons.json
+            All_Icons.json
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
