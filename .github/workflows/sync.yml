@@ -1,0 +1,42 @@
+name: Generate Emby Icons JSON
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */6 * * *"   # 每 6 小时自动运行
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 拉取仓库
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. 安装 Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      # 3. 生成 EmbyIcons.json
+      - name: Generate Emby Icons JSON
+        run: |
+          python scripts/EmbyIcons.json.py
+
+      # 4. 自动提交
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
+          message: "Auto-generate EmbyIcons.json"
+          add: EmbyIcons.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
