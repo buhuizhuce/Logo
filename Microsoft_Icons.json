@@ -1,0 +1,74 @@
+{
+  "name": "Microsoft Icons",
+  "description": "Microsoft 图标索引，自动生成 by 🏄🏻‍♂️ Frank",
+  "icons": [
+    {
+      "name": "Link to Windows",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Link to Windows.png"
+    },
+    {
+      "name": "Microsoft 365",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft 365.png"
+    },
+    {
+      "name": "Microsoft Authenticator",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft Authenticator.png"
+    },
+    {
+      "name": "Microsoft Copilot",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft Copilot.png"
+    },
+    {
+      "name": "Microsoft Defender",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft Defender.png"
+    },
+    {
+      "name": "Microsoft Edge",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft Edge.png"
+    },
+    {
+      "name": "Microsoft Excel",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft Excel.png"
+    },
+    {
+      "name": "Microsoft Loop",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft Loop.png"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft OneDrive.png"
+    },
+    {
+      "name": "Microsoft OneNote",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft OneNote.png"
+    },
+    {
+      "name": "Microsoft Outlook",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft Outlook.png"
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft PowerPoint.png"
+    },
+    {
+      "name": "Microsoft Start",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft Start.png"
+    },
+    {
+      "name": "Microsoft Teams",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft Teams.png"
+    },
+    {
+      "name": "Microsoft To Do",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft To Do.png"
+    },
+    {
+      "name": "Microsoft Translator",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft Translator.png"
+    },
+    {
+      "name": "Microsoft Word",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Microsoft/Microsoft Word.png"
+    }
+  ]
+}

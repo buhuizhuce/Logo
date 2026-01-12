@@ -1,0 +1,86 @@
+{
+  "name": "Currency Icons",
+  "description": "Currency 图标索引，自动生成 by 🏄🏻‍♂️ Frank",
+  "icons": [
+    {
+      "name": "ARS",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/ARS.png"
+    },
+    {
+      "name": "AUD",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/AUD.png"
+    },
+    {
+      "name": "CAD",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/CAD.png"
+    },
+    {
+      "name": "CHF",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/CHF.png"
+    },
+    {
+      "name": "CNY",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/CNY.png"
+    },
+    {
+      "name": "EUR",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/EUR.png"
+    },
+    {
+      "name": "GBP",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/GBP.png"
+    },
+    {
+      "name": "HKD",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/HKD.png"
+    },
+    {
+      "name": "ILS",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/ILS.png"
+    },
+    {
+      "name": "INR",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/INR.png"
+    },
+    {
+      "name": "JPY",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/JPY.png"
+    },
+    {
+      "name": "KRW",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/KRW.png"
+    },
+    {
+      "name": "RUB",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/RUB.png"
+    },
+    {
+      "name": "SEK",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/SEK.png"
+    },
+    {
+      "name": "SGD",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/SGD.png"
+    },
+    {
+      "name": "TRY",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/TRY.png"
+    },
+    {
+      "name": "USD",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/USD.png"
+    },
+    {
+      "name": "burrency",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/burrency.png"
+    },
+    {
+      "name": "currency conversion",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/currency conversion.png"
+    },
+    {
+      "name": "mastercard",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Currency/mastercard.png"
+    }
+  ]
+}

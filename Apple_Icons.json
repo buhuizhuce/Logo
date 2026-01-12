@@ -1,0 +1,238 @@
+{
+  "name": "Apple Icons",
+  "description": "Apple 图标索引，自动生成 by 🏄🏻‍♂️ Frank",
+  "icons": [
+    {
+      "name": "Apple App Store Connect",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple App Store Connect.png"
+    },
+    {
+      "name": "Apple Books",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Books.png"
+    },
+    {
+      "name": "Apple Breathe",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Breathe.png"
+    },
+    {
+      "name": "Apple Calculator",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Calculator.png"
+    },
+    {
+      "name": "Apple Calendar",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Calendar.png"
+    },
+    {
+      "name": "Apple Camera",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Camera.png"
+    },
+    {
+      "name": "Apple Clips",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Clips.png"
+    },
+    {
+      "name": "Apple Clock",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Clock.png"
+    },
+    {
+      "name": "Apple Compass",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Compass.png"
+    },
+    {
+      "name": "Apple Contacts",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Contacts.png"
+    },
+    {
+      "name": "Apple ECG",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple ECG.png"
+    },
+    {
+      "name": "Apple FaceTime",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple FaceTime.png"
+    },
+    {
+      "name": "Apple Files",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Files.png"
+    },
+    {
+      "name": "Apple Find Devices",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Find Devices.png"
+    },
+    {
+      "name": "Apple Find My Friends",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Find My Friends.png"
+    },
+    {
+      "name": "Apple Find My",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Find My.png"
+    },
+    {
+      "name": "Apple Fitness",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Fitness.png"
+    },
+    {
+      "name": "Apple Freeform",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Freeform.png"
+    },
+    {
+      "name": "Apple Health",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Health.png"
+    },
+    {
+      "name": "Apple Home",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Home.png"
+    },
+    {
+      "name": "Apple Keynote",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Keynote.png"
+    },
+    {
+      "name": "Apple Magnifier",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Magnifier.png"
+    },
+    {
+      "name": "Apple Mail",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Mail.png"
+    },
+    {
+      "name": "Apple Maps",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Maps.png"
+    },
+    {
+      "name": "Apple Medications",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Medications.png"
+    },
+    {
+      "name": "Apple Messages",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Messages.png"
+    },
+    {
+      "name": "Apple Music Classical",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Music Classical.png"
+    },
+    {
+      "name": "Apple Music",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Music.png"
+    },
+    {
+      "name": "Apple News",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple News.png"
+    },
+    {
+      "name": "Apple Noise",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Noise.png"
+    },
+    {
+      "name": "Apple Notes",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Notes.png"
+    },
+    {
+      "name": "Apple Numbers",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Numbers.png"
+    },
+    {
+      "name": "Apple Pages",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Pages.png"
+    },
+    {
+      "name": "Apple Phone",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Phone.png"
+    },
+    {
+      "name": "Apple Photos",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Photos.png"
+    },
+    {
+      "name": "Apple Podcasts",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Podcasts.png"
+    },
+    {
+      "name": "Apple Radio",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Radio.png"
+    },
+    {
+      "name": "Apple Reminders",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Reminders.png"
+    },
+    {
+      "name": "Apple Safari",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Safari.png"
+    },
+    {
+      "name": "Apple Shazam",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Shazam.png"
+    },
+    {
+      "name": "Apple Shortcuts",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Shortcuts.png"
+    },
+    {
+      "name": "Apple Stocks",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Stocks.png"
+    },
+    {
+      "name": "Apple Store",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Store.png"
+    },
+    {
+      "name": "Apple Support",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Support.png"
+    },
+    {
+      "name": "Apple TV",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple TV.png"
+    },
+    {
+      "name": "Apple TestFlight",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple TestFlight.png"
+    },
+    {
+      "name": "Apple Tips",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Tips.png"
+    },
+    {
+      "name": "Apple Translate",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Translate.png"
+    },
+    {
+      "name": "Apple Videos",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Videos.png"
+    },
+    {
+      "name": "Apple Voice Memos",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Voice Memos.png"
+    },
+    {
+      "name": "Apple Wallet",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Wallet.png"
+    },
+    {
+      "name": "Apple Watch Faces&Widgets",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Watch Faces&Widgets.png"
+    },
+    {
+      "name": "Apple Watch",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Watch.png"
+    },
+    {
+      "name": "Apple Weather",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple Weather.png"
+    },
+    {
+      "name": "Apple iCloud Drive",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple iCloud Drive.png"
+    },
+    {
+      "name": "Apple iMovie",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple iMovie.png"
+    },
+    {
+      "name": "Apple iTunes Store",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Apple iTunes Store.png"
+    },
+    {
+      "name": "Appstore",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Apple/Appstore.png"
+    }
+  ]
+}
