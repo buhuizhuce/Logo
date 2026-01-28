@@ -99,6 +99,14 @@
       "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/CC_emby1.png"
     },
     {
+      "name": "CYNN",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/CYNN.png"
+    },
+    {
+      "name": "CYNN1",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/CYNN1.png"
+    },
+    {
       "name": "Charon_emby",
       "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/Charon_emby.png"
     },
@@ -721,6 +729,10 @@
     {
       "name": "Unbound1",
       "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/Unbound1.png"
+    },
+    {
+      "name": "Vemby",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/Vemby.png"
     },
     {
       "name": "Wenjian",
