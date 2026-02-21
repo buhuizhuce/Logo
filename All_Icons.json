@@ -1211,6 +1211,18 @@
       "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/ME1.png"
     },
     {
+      "name": "ME2",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/ME2.png"
+    },
+    {
+      "name": "ME3",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/ME3.png"
+    },
+    {
+      "name": "ME4",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/ME4.png"
+    },
+    {
       "name": "Meowfly",
       "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/Meowfly.png"
     },
@@ -1295,6 +1307,10 @@
       "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/Nihao.png"
     },
     {
+      "name": "NiuBi",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/NiuBi.png"
+    },
+    {
       "name": "Nyamedia",
       "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/Nyamedia.png"
     },
@@ -1369,6 +1385,10 @@
     {
       "name": "Qingmeiyinghua",
       "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/Qingmeiyinghua.png"
+    },
+    {
+      "name": "ROC",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/ROC.png"
     },
     {
       "name": "Ryan",
@@ -1565,6 +1585,10 @@
     {
       "name": "XXM1",
       "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/XXM1.png"
+    },
+    {
+      "name": "XYZ",
+      "url": "https://raw.githubusercontent.com/buhuizhuce/Logo/refs/heads/main/Emby/XYZ.png"
     },
     {
       "name": "Xiangjing",
